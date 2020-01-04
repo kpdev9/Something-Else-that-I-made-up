@@ -1,0 +1,15 @@
+﻿Build started 20/12/2019 17:21:28.
+     1>Project "C:\Users\kienc\OneDrive\Visual Studio Stuff\Projects\Timber\Timber\Timber.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\SFML-2.5.1\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Timber.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Timber.cpp
+         Skipping... (no relevant changes detected)
+         Timber.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\kienc\OneDrive\Visual Studio Stuff\Projects\Timber\Debug\Timber.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\SFML-2.5.1\lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" "sfml-network-d.lib" "sfml-audio-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\kienc\OneDrive\Visual Studio Stuff\Projects\Timber\Debug\Timber.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\kienc\OneDrive\Visual Studio Stuff\Projects\Timber\Debug\Timber.lib" /MACHINE:X86 Debug\Timber.obj
+         Debug\stdafx.obj
+         Timber.vcxproj -> C:\Users\kienc\OneDrive\Visual Studio Stuff\Projects\Timber\Debug\Timber.exe
+     1>Done Building Project "C:\Users\kienc\OneDrive\Visual Studio Stuff\Projects\Timber\Timber\Timber.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:10.08
